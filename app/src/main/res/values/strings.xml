@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculadoraEmpleados</string>
+    <string name="title_activity_contrato">ContratoActivity</string>
+    <string name="title_activity_honorarios">HonorariosActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_empleados_con_contrato">EmpleadosConContratoActivity</string>
+    <string name="title_activity_calculo_honorarios">calculoHonorarios</string>
+</resources>
